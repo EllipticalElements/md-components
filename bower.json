@@ -1,6 +1,6 @@
 {
   "name": "md-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
@@ -41,10 +41,26 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "elliptical-polymer-behaviors": "~1.0.11",
-    "neon-animation": "PolymerElements/neon-animation#~1.0.9"
+    "neon-animation": "PolymerElements/neon-animation#~1.0.9",
+    "md-input": "~1.0.5",
+    "md-scroll": "~1.0.0",
+    "md-menu": "~1.0.2",
+    "md-layout": "~1.0.2",
+    "md-grid": "~1.0.0",
+    "md-morph": "~1.0.0",
+    "md-more": "~1.0.1",
+    "md-loader": "~1.0.0",
+    "md-dropdown": "~1.0.1",
+    "md-dialog": "~1.0.3",
+    "md-datepicker": "~1.0.1",
+    "md-confirm": "~1.0.0",
+    "md-submit": "~1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "web-component-tester": "*"
+  },
+  "resolutions": {
+    "sass-md-components": "~1.1.0"
   }
 }
