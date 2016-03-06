@@ -1,6 +1,6 @@
 {
   "name": "md-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "S. Francis"
   ],
@@ -51,10 +51,11 @@
     "md-more": "~1.0.1",
     "md-loader": "~1.0.0",
     "md-dropdown": "~1.0.1",
-    "md-dialog": "~1.0.3",
+    "md-dialog": "~1.1.0",
     "md-datepicker": "~1.0.1",
     "md-confirm": "~1.0.0",
-    "md-submit": "~1.0.0"
+    "md-submit": "~1.0.0",
+    "md-autocomplete": "~1.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
