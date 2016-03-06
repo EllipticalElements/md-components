@@ -1,6 +1,6 @@
 {
   "name": "md-components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     "S. Francis"
   ],
@@ -11,7 +11,7 @@
     "md",
     "material design"
   ],
-  "main": "",
+  "main": "md-components.html",
   "license": "MIT",
   "homepage": "https://github.com/EllipticalElements/md-components/",
   "ignore": [
