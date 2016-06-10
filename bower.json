@@ -1,6 +1,6 @@
 {
   "name": "md-components",
-  "version": "1.0.5",
+  "version": "1.2.0",
   "authors": [
     "S. Francis"
   ],
@@ -40,23 +40,22 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
-    "elliptical-polymer-behaviors": "~1.1.1",
     "neon-animation": "PolymerElements/neon-animation#~1.2.2",
-    "md-input": "~1.1.0",
-    "md-scroll": "~1.0.0",
-    "md-menu": "~1.0.4",
+    "md-input": "~1.2.0",
+    "md-scroll": "~1.2.0",
+    "md-menu": "~1.2.0",
     "md-layout": "~1.0.2",
-    "md-grid": "~1.0.2",
-    "md-morph": "~1.0.0",
-    "md-more": "~1.0.1",
-    "md-loader": "~1.0.0",
-    "md-dropdown": "~1.0.3",
-    "md-dialog": "~1.1.1",
-    "md-datepicker": "~1.0.1",
-    "md-confirm": "~1.0.0",
-    "md-submit": "~1.0.5",
+    "md-grid": "~1.2.0",
+    "md-morph": "~1.2.0",
+    "md-more": "~1.2.0",
+    "md-loader": "~1.2.0",
+    "md-dropdown": "~1.2.0",
+    "md-dialog": "~1.2.0",
+    "md-datepicker": "~1.2.0",
+    "md-confirm": "~1.2.0",
+    "md-submit": "~1.2.0",
     "md-autocomplete": "~1.0.1",
-    "md-progress": "~1.0.1"
+    "md-progress": "~1.2.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
